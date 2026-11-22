@@ -1,0 +1,189 @@
+{
+  "version": 1,
+  "note": "Keyword map for the skill router. Edit the words and skills, nothing else. A rule fires when any of its words appears in the message as a whole word. Project specific files belong in map.local.json next to this file, not here.",
+  "maxSkills": 7,
+  "rules": [
+    {
+      "name": "social",
+      "words": [
+        "post",
+        "posts",
+        "posting",
+        "caption",
+        "captions",
+        "reel",
+        "reels",
+        "carousel",
+        "carousels",
+        "instagram",
+        "facebook",
+        "tiktok",
+        "pinterest",
+        "story",
+        "stories",
+        "hashtag",
+        "hashtags",
+        "content calendar",
+        "organic"
+      ],
+      "skills": [
+        "social",
+        "persuasive-copy"
+      ],
+      "files": []
+    },
+    {
+      "name": "ads",
+      "words": [
+        "ad",
+        "ads",
+        "advert",
+        "adverts",
+        "advertising",
+        "campaign",
+        "campaigns",
+        "roas",
+        "cpa",
+        "retarget",
+        "retargeting",
+        "ad set",
+        "adset",
+        "ad copy",
+        "creative test"
+      ],
+      "skills": [
+        "ad-creative",
+        "ads",
+        "persuasive-copy"
+      ],
+      "files": []
+    },
+    {
+      "name": "page",
+      "words": [
+        "landing page",
+        "product page",
+        "homepage",
+        "home page",
+        "website copy",
+        "this copy",
+        "rewrite",
+        "headline",
+        "headlines",
+        "hero",
+        "cta",
+        "call to action",
+        "conversion",
+        "converting",
+        "bounce"
+      ],
+      "skills": [
+        "persuasive-copy",
+        "copywriting",
+        "cro"
+      ],
+      "files": []
+    },
+    {
+      "name": "video",
+      "words": [
+        "video",
+        "videos",
+        "heygen",
+        "shorts",
+        "youtube",
+        "b-roll",
+        "broll",
+        "voiceover",
+        "avatar",
+        "script"
+      ],
+      "skills": [
+        "video",
+        "hyperframes"
+      ],
+      "files": []
+    },
+    {
+      "name": "email",
+      "words": [
+        "email",
+        "emails",
+        "newsletter",
+        "outreach",
+        "follow up",
+        "follow-up",
+        "cold email",
+        "sequence",
+        "drip"
+      ],
+      "skills": [
+        "cold-email",
+        "emails"
+      ],
+      "files": []
+    },
+    {
+      "name": "search",
+      "words": [
+        "seo",
+        "aeo",
+        "geo",
+        "rank",
+        "ranking",
+        "rankings",
+        "search console",
+        "keyword",
+        "keywords",
+        "schema",
+        "ai search",
+        "ai overviews",
+        "indexed"
+      ],
+      "skills": [
+        "seo-audit",
+        "ai-seo",
+        "schema"
+      ],
+      "files": []
+    },
+    {
+      "name": "offer",
+      "words": [
+        "offer",
+        "offers",
+        "bundle",
+        "bundles",
+        "guarantee",
+        "financing",
+        "payment plan",
+        "pricing strategy",
+        "what should we charge",
+        "upsell"
+      ],
+      "skills": [
+        "offers",
+        "pricing",
+        "marketing-psychology"
+      ],
+      "files": []
+    },
+    {
+      "name": "research",
+      "words": [
+        "competitor",
+        "competitors",
+        "competitive",
+        "customer research",
+        "voice of customer",
+        "buyer language",
+        "what buyers say"
+      ],
+      "skills": [
+        "competitor-profiling",
+        "customer-research"
+      ],
+      "files": []
+    }
+  ]
+}
