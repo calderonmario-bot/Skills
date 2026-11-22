@@ -6,7 +6,7 @@ grouping, `router/` and `install/` are original work in this repository.
 
 | Skills | Author | License |
 |---|---|---|
-| `marketing/` (all 16), `search/ai-seo`, `search/seo-audit`, `search/schema`, `video-web/video` | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | MIT, Copyright (c) 2025 Corey Haines |
+| `marketing/` (all 22), `search/ai-seo`, `search/seo-audit`, `search/schema`, `video-web/video` | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | MIT, Copyright (c) 2025 Corey Haines |
 | `video-web/hyperframes`, `hyperframes-cli`, `hyperframes-registry`, `website-to-hyperframes`, `gsap` | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | Apache License 2.0 |
 | `video-web/ui-ux-pro-max` | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | MIT |
 | `dev/github-*`, `pair-programming`, `verification-quality`, `hooks-automation` | [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow) | MIT |

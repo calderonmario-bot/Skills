@@ -55,6 +55,12 @@ every session in every project. See **Install** below.
 | `competitor-profiling` | Turns a list of competitor URLs into structured profiles |
 | `analytics` | Tracking setup and audits. GA4, events, UTMs, conversion tracking |
 | `product-marketing` | Writes the positioning and ICP document every other skill reads first |
+| `reverse-engineer-marketing` | How another company grew and what to copy. A dated log of their moves against their traffic, from archives, job posts and reviews, compared with yours |
+| `competitors` | Comparison and alternative pages: "X vs Y", "best X alternatives". Page formats and fair claims |
+| `ab-testing` | Plan and read tests. Is the result real, can we stop, did it actually win |
+| `attribution` | Which marketing actually drives revenue. Which numbers to trust, which platforms over-claim |
+| `content-strategy` | What to write and in what order. Topic clusters, calendars, why posts bring no customers |
+| `marketing-loops` | Turns a recurring check into a job an agent runs on a cadence, and says when it should stop |
 
 ### search
 

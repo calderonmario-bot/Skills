@@ -177,11 +177,103 @@
         "customer research",
         "voice of customer",
         "buyer language",
-        "what buyers say"
+        "what buyers say",
+        "reverse engineer",
+        "how did they grow",
+        "teardown",
+        "alternative page",
+        "vs page",
+        "what are they doing",
+        "grow",
+        "grew",
+        "growth",
+        "copy what they",
+        "steal"
       ],
       "skills": [
         "competitor-profiling",
-        "customer-research"
+        "customer-research",
+        "reverse-engineer-marketing",
+        "competitors"
+      ],
+      "files": []
+    },
+    {
+      "name": "testing",
+      "words": [
+        "ab test",
+        "a/b test",
+        "split test",
+        "experiment",
+        "experiments",
+        "significance",
+        "sample size",
+        "did it win",
+        "statistically"
+      ],
+      "skills": [
+        "ab-testing",
+        "cro",
+        "analytics"
+      ],
+      "files": []
+    },
+    {
+      "name": "attribution",
+      "words": [
+        "attribution",
+        "which channel",
+        "incrementality",
+        "holdout",
+        "mmm",
+        "dark social",
+        "what is driving sales",
+        "where are sales coming from"
+      ],
+      "skills": [
+        "attribution",
+        "analytics"
+      ],
+      "files": []
+    },
+    {
+      "name": "content",
+      "words": [
+        "content plan",
+        "content calendar",
+        "blog",
+        "blog post",
+        "what to write",
+        "topics",
+        "editorial",
+        "write about",
+        "what should we write",
+        "content ideas",
+        "blog topics",
+        "article",
+        "articles"
+      ],
+      "skills": [
+        "content-strategy",
+        "copywriting",
+        "seo-audit"
+      ],
+      "files": []
+    },
+    {
+      "name": "loops",
+      "words": [
+        "every week",
+        "every day",
+        "daily check",
+        "weekly check",
+        "recurring",
+        "on a cadence",
+        "automate this check",
+        "scheduled task"
+      ],
+      "skills": [
+        "marketing-loops"
       ],
       "files": []
     }
