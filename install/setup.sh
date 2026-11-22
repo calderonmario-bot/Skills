@@ -5,7 +5,7 @@ set -u
 REPO=https://github.com/calderonmario-bot/Skills.git
 CACHE=/opt/shared-skills
 DEST="${HOME}/.claude/skills"
-GROUPS="marketing search video-web dev"
+SKILL_GROUPS="marketing search video-web dev"
 
 if [ -d "$CACHE/.git" ]; then
   git -C "$CACHE" fetch -q --depth 1 origin main 2>/dev/null &&
@@ -18,11 +18,11 @@ fi
 # A project narrows the set with .claude/skills.conf, one or more group names.
 for d in */; do
   f="${d}.claude/skills.conf"
-  if [ -f "$f" ]; then GROUPS=$(tr '\n' ' ' < "$f"); break; fi
+  if [ -f "$f" ]; then SKILL_GROUPS=$(tr '\n' ' ' < "$f"); break; fi
 done
 
 mkdir -p "$DEST"
-for g in $GROUPS; do
+for g in $SKILL_GROUPS; do
   [ -d "$CACHE/$g" ] || continue
   cp -r "$CACHE/$g/." "$DEST/" 2>/dev/null && echo "skills: installed $g"
 done
